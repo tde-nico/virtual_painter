@@ -1,6 +1,9 @@
 # virtual_painter
 
 <!--
+#field
+AI
+
 #groups
 Computer_Vision
 
